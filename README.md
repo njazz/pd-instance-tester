@@ -1,6 +1,7 @@
 # pd-instance-tester
 
-**[pdinstance_tester]** puredata object detects if host is built with PDINSTANCE=1 compile flag.<br>
+**[pdinstance_tester]** <br>
+puredata object detects if host is built with PDINSTANCE=1 compile flag.<br><br>
 This is supported in libpd builds.
 
 MIT license
